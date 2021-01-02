@@ -29,6 +29,7 @@
     lodash "^4.17.19"
     semver "^5.4.1"
     source-map "^0.5.0"
+    
 "@babel/generator@^7.12.10", "@babel/generator@^7.12.11", "@babel/generator@^7.5.0":
   version "7.12.11"
   resolved "https://registry.yarnpkg.com/@babel/generator/-/generator-7.12.11.tgz#98a7df7b8c358c9a37ab07a24056853016aba3af"
