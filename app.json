@@ -1,0 +1,12 @@
+{
+  "name": "projectName",
+  "displayName": "projectName",
+  "expo": {
+    "android": {
+      "package": "com.projectname"
+    },
+    "ios": {
+      "bundleIdentifier": "org.reactjs.native.example.projectName"
+    }
+  }
+}
